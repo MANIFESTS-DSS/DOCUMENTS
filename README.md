@@ -1,6 +1,8 @@
 # MANIFESTS-DSS
 
 ![Alt text](MANIFEST_LOGO_pequeno.png)
+![Alt text](UE_FUNDED_LOGO.png)
+
 
 ## BACKGROUND
 
