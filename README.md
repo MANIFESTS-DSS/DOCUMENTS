@@ -1,8 +1,6 @@
 # MANIFESTS-DSS
 
 ![Alt text](MANIFEST_LOGO_pequeno.png)
-![Alt text](UE_FUNDED_LOGO.png)
-
 
 ## BACKGROUND
 
@@ -36,3 +34,10 @@ This repository contains all the general documents to know and use the Decision 
 ## Note
 
 For installation guides, please, go to the specific software repositories.
+
+### MANIFESTS
+
+**MAN**aging risks and **I**mpacts **F**rom and **E**vaporating 
+and gaseous **S**ubstances **T**o population **S**afety
+
+![Alt text](UEpequeno.png)
